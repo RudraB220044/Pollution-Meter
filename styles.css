@@ -1,0 +1,21 @@
+.centerBox4{
+    background: #fff;
+    margin-bottom: 16px;
+}
+.air-quality-card__header {
+    border-bottom: 1px solid rgba(0,0,0,.15);
+    padding: 12px;
+}
+
+.module-title {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+@media (min-width: 768px){
+    .module-title {
+        font-size: 20px;
+    }
+}
